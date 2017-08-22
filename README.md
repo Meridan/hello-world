@@ -1,4 +1,2 @@
-# hello-world
-Wheeee
-F11 fullscreen 
-ssaaddmod
+# hola-mundo
+Welcome, dear stranger!
